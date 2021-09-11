@@ -1,0 +1,23 @@
+{
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "num_epochs": 300,
+    "dropout_rate": 0.5,
+    "embedding_dim": 50,
+    "save_summary_steps": 100,
+    "sentence_length": 100,
+    "cuda": false,
+    "vocab_size": 4305,
+    "tag_len": 35,
+    "feature_size": 50,
+    "padding_idx": 0,
+    "lstm_hidden_dim": 50,
+    "window_sizes": [
+        3,
+        4,
+        5
+    ],
+    "vocab_path": "data/vocab.json",
+    "tag_path": "data/tag.json",
+    "model": "lstm"
+}

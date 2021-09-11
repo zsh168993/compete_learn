@@ -1,0 +1,60 @@
+2021-08-07 20:16:13,366:INFO: Epoch 1/300
+2021-08-07 20:17:18,437:INFO: - Train metrics: accuracy: 0.047 ; acc_f1_macro: 0.004 ; loss: 3.345
+2021-08-07 20:17:21,796:INFO: - Eval metrics : accuracy: 0.143 ; acc_f1_macro: 0.017 ; loss: 3.022
+2021-08-07 20:17:21,807:INFO: - Found new best accuracy
+2021-08-07 20:17:21,808:INFO: Epoch 2/300
+2021-08-07 20:18:31,796:INFO: - Train metrics: accuracy: 0.148 ; acc_f1_macro: 0.043 ; loss: 2.969
+2021-08-07 20:18:35,208:INFO: - Eval metrics : accuracy: 0.298 ; acc_f1_macro: 0.114 ; loss: 2.709
+2021-08-07 20:18:35,223:INFO: - Found new best accuracy
+2021-08-07 20:18:35,223:INFO: Epoch 3/300
+2021-08-08 13:11:59,106:INFO: Epoch 1/300
+2021-08-08 13:12:50,804:INFO: - Train metrics: accuracy: 0.055 ; acc_f1_macro: 0.006 ; loss: 3.354
+2021-08-08 13:12:57,131:INFO: - Eval metrics : accuracy: 0.139 ; acc_f1_macro: 0.012 ; loss: 3.025
+2021-08-08 13:17:02,205:INFO: Epoch 1/300
+2021-08-08 13:17:50,248:INFO: - Train metrics: accuracy: 0.055 ; acc_f1_macro: 0.006 ; loss: 3.354
+2021-08-08 13:17:53,400:INFO: - Eval metrics : accuracy: 0.139 ; acc_f1_macro: 0.012 ; loss: 3.025
+2021-08-08 13:20:59,069:INFO: Epoch 1/300
+2021-08-08 13:21:47,843:INFO: - Train metrics: accuracy: 0.055 ; acc_f1_macro: 0.006 ; loss: 3.354
+2021-08-08 13:21:51,019:INFO: - Eval metrics : accuracy: 0.139 ; acc_f1_macro: 0.012 ; loss: 3.025
+2021-08-08 13:21:51,019:INFO: - Found new best accuracy
+2021-08-08 13:21:51,019:INFO: Epoch 2/300
+2021-08-08 13:22:33,789:INFO: Epoch 1/300
+2021-08-08 13:23:24,976:INFO: - Train metrics: accuracy: 0.055 ; acc_f1_macro: 0.006 ; loss: 3.354
+2021-08-08 13:23:31,287:INFO: - Eval metrics : accuracy: 0.139 ; acc_f1_macro: 0.012 ; loss: 3.025
+2021-08-08 13:23:31,304:INFO: - Found new best accuracy
+2021-08-08 13:23:31,304:INFO: Epoch 2/300
+2021-08-08 13:24:22,380:INFO: - Train metrics: accuracy: 0.156 ; acc_f1_macro: 0.047 ; loss: 2.993
+2021-08-08 13:24:28,684:INFO: - Eval metrics : accuracy: 0.294 ; acc_f1_macro: 0.110 ; loss: 2.690
+2021-08-08 13:24:28,700:INFO: - Found new best accuracy
+2021-08-08 13:24:28,700:INFO: Epoch 3/300
+2021-08-08 13:26:15,279:INFO: Epoch 1/300
+2021-08-08 13:27:07,341:INFO: - Train metrics: accuracy: 0.055 ; acc_f1_macro: 0.006 ; loss: 3.354
+2021-08-08 13:30:39,547:INFO: - Eval metrics : accuracy: 0.139 ; acc_f1_macro: 0.012 ; loss: 3.025
+2021-08-08 13:30:39,562:INFO: - Found new best accuracy
+2021-08-08 13:30:39,563:INFO: Epoch 2/300
+2021-08-08 13:31:40,203:INFO: - Train metrics: accuracy: 0.156 ; acc_f1_macro: 0.047 ; loss: 2.993
+2021-08-08 13:39:01,603:INFO: - Eval metrics : accuracy: 0.294 ; acc_f1_macro: 0.110 ; loss: 2.690
+2021-08-08 13:39:01,612:INFO: - Found new best accuracy
+2021-08-08 13:39:01,613:INFO: Epoch 3/300
+2021-08-08 13:40:02,574:INFO: - Train metrics: accuracy: 0.258 ; acc_f1_macro: 0.121 ; loss: 2.642
+2021-08-08 13:41:07,275:INFO: - Eval metrics : accuracy: 0.308 ; acc_f1_macro: 0.116 ; loss: 2.559
+2021-08-08 13:41:07,275:INFO: - Found new best accuracy
+2021-08-08 13:41:07,275:INFO: Epoch 4/300
+2021-08-08 13:41:57,774:INFO: - Train metrics: accuracy: 0.320 ; acc_f1_macro: 0.155 ; loss: 2.523
+2021-08-08 13:42:03,956:INFO: - Eval metrics : accuracy: 0.363 ; acc_f1_macro: 0.173 ; loss: 2.424
+2021-08-08 13:42:03,972:INFO: - Found new best accuracy
+2021-08-08 13:42:03,972:INFO: Epoch 5/300
+2021-08-08 13:42:54,678:INFO: - Train metrics: accuracy: 0.383 ; acc_f1_macro: 0.202 ; loss: 2.610
+2021-08-08 13:43:00,965:INFO: - Eval metrics : accuracy: 0.409 ; acc_f1_macro: 0.203 ; loss: 2.285
+2021-08-08 13:43:00,974:INFO: - Found new best accuracy
+2021-08-08 13:43:00,975:INFO: Epoch 6/300
+2021-08-08 13:43:51,579:INFO: - Train metrics: accuracy: 0.406 ; acc_f1_macro: 0.204 ; loss: 2.329
+2021-08-08 13:43:58,048:INFO: - Eval metrics : accuracy: 0.417 ; acc_f1_macro: 0.216 ; loss: 2.219
+2021-08-08 13:43:58,063:INFO: - Found new best accuracy
+2021-08-08 13:43:58,063:INFO: Epoch 7/300
+2021-08-08 13:44:49,030:INFO: - Train metrics: accuracy: 0.375 ; acc_f1_macro: 0.188 ; loss: 2.347
+2021-08-08 13:44:55,459:INFO: - Eval metrics : accuracy: 0.439 ; acc_f1_macro: 0.250 ; loss: 2.139
+2021-08-08 13:44:55,475:INFO: - Found new best accuracy
+2021-08-08 13:44:55,475:INFO: Epoch 8/300
+2021-08-08 13:52:04,215:INFO: Epoch 1/300
+2021-08-08 13:55:56,917:INFO: Epoch 1/300
